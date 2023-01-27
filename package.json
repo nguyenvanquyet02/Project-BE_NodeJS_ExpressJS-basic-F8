@@ -1,0 +1,28 @@
+{
+  "name": "be_f8",
+  "version": "1.0.0",
+  "description": "be with f8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NguyenVanQuyet02/BE_F8.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs",
+    "f8",
+    "f8"
+  ],
+  "author": "Maris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenVanQuyet02/BE_F8/issues"
+  },
+  "homepage": "https://github.com/NguyenVanQuyet02/BE_F8#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
