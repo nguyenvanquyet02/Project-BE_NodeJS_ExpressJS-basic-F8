@@ -11,6 +11,7 @@ async function connect() {
         console.log('connect failure!!!');
     }
 }
+mongoose.set('strictQuery', false);
 module.exports = {
     connect
 }
